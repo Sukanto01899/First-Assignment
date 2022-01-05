@@ -1,0 +1,82 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    
+}
+h1{
+    font-size: 65px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.red-color{
+    color: red;
+    margin-top: -25px;
+    font-family: monospace;
+}
+.left-border{
+    border-left: 4px solid red;
+    padding-left: 15px;
+    border-radius: 20px;
+}
+.head-section{
+    display: flex;
+    margin-bottom: 100px;
+}
+.side-by-side{
+    margin-left: 10%;
+    margin-top: 6%;
+    width: 100%;
+}
+.side-by-side img{
+    width: 70%;
+}
+.head-p{
+    font-size: 22px;
+    margin-bottom: 30px;
+    text-align: justify;
+}
+.link-button{
+    text-decoration: none;
+    background-color: red;
+    padding: 15px 40px;
+    color: white;
+    font-weight: 800;
+    border-radius: 10px;
+}
+
+
+       /*My Plan for 2022*/
+.my-plan{
+    text-align: center;
+    font-size: 50px;
+}
+.m-v-g{
+    display: flex;
+}
+.m-v-g-item{
+    width: 100%;
+    padding-left: 20px;
+    padding-right: 20px;
+    text-align: justify;
+    
+}
+.m-v-g-item img{
+    width: 50%;
+}
+#mission{
+    background-color: rgba(255, 226, 143, 0.3);
+    border-radius: 20px;
+    margin-left: 10%;
+    
+}
+#vission{
+    background-color: rgba(121, 124, 190, 0.3);
+    border-radius: 20px;
+    margin-left: 3%;
+    margin-right: 3%;
+}
+#goals{
+    background-color: rgba(121, 255, 190, 0.3);
+    border-radius: 20px;
+    margin-right: 10%;
+}
