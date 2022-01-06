@@ -123,6 +123,32 @@ h1{
     background-size: 16%;
 }
 
+/*Web Dev Section*/
+.dev-head{
+    text-align: center;
+    font-size: 50px;
+}
+.web-img img{
+    width: 50%;
+    margin-left: 40%;
+}
+.dev-item{
+    margin-right: 8%;
+}
+.dev-item h1{
+    font-size: 50px;
+}
+.dev-item p{
+    font-size: 20px;
+    width: 70%;
+    margin-bottom: 5%;  
+}
+.web-last-banner{
+    background-image: url(shapes/shape-2.png);
+    background-repeat: no-repeat;
+    background-size: 20%;
+    background-position: left;
+}
 
 /*footer*/
 footer{
